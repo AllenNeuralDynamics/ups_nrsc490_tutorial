@@ -30,3 +30,6 @@ Are they also correlated to the conditioned neuron? What does their activity loo
   - e.g. plot event-centered averages (take the activity of a neuron from ~2 seconds before to ~2 seconds after an event (say, threshold-crossing). What does this look like for CN neurons? What does it look like for non-CN neurons
   - Are these responses different based on how correlated the neuron is with the CN neuron (measured during spontaneous epoch)
   - Are neurons that are correlated during spontaneous epoch also correlated during BCI task?
+
+**Do the transgenic/viral strategies impact any of the results you see?**
+For any of the above questions (or questions of your own), can you see differences between the different approaches for expressing GCaMP and ChRmine? Or are the results more pronounced? 
